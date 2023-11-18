@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+min-height: 100vh;
+}
+       
+.container .black-box {
+    display: flex;
+justify-content: space-between;
+    padding: 100px 79px ;
+    width: 1700px;
+    height: 300px;
+    border: 1.025px solid #757575;
+    background: #190422;
+}
+
+.container .black-box h1 {
+    margin-bottom: 10px;
+    color: #FFF;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+line-height: 130.5%;
+}
+
+.container .black-box .logo img {
+    margin-right: 37px;
+    width: 205px;
+height: 65px;
+    border-radius: 12px;
+    background: url(<path-to-image>), lightgray -2px -26.424px / 102.439% 181.305% no-repeat;
+}
+
+.container .black-box .statistics img {
+    position: absolute;
+    top: -200px;
+    left: 1300px;
+    width: 280px;
+height: 500px;
+background: url(<path-to-image>), lightgray -60.681px -60.868px / 123.404% 109.971% no-repeat;
+}
+
+.container  img {
+width: 20%;
+}
+
+.container .right-side {
+    padding: 54px 186px 54px 116px;
+    display: flex;
+}
+
+.container .right-side img {
+    margin-right: 130px;
+}
+.container .right-side .right-side-box2 h2 {
+    color: #000;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+line-height: 130.5%;
+}
+
+.container .right-side .right-side-box2 h3 {
+    width: 522px;
+    color: #000;
+text-align: justify;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 158%;
+}
+
+.container .right-side .right-side-box2 ul li {
+    display: flex;
+    align-items: center;
+}
+
+.container .right-side .right-side-box2 ul li svg {
+    width: 30px;
+ margin-right: 17px;
+}
+.container .right-side .right-side-box2 ul li p {
+color: #000;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 158%;
+
+}
+    /* padding: 107px 79px 0 90px;
+    min-height: 100vh;
+    border: 1.025px solid #757575;
+background: #190422;
+display: flex;
+justify-content: space-between;
+}
+
+.container h1 {
+    margin-bottom: 42px;
+    color: #FFF;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+line-height: 130.5%;
+}
+
+.container .box-1 .logo {
+    display: flex;
+}
+
+.container .box-1 .logo img {
+    margin-right: 38px;
+    border-radius: 12px;
+background: url(<path-to-image>), lightgray -2px -26.424px / 102.439% 181.305% no-repeat;
+}
+ */

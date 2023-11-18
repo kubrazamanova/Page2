@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  min-height: 100vh;
+  background: linear-gradient(144deg, #190422 21.1%, #190422 102.96%);
+  padding: 17px 0 0 77px;
+}/*# sourceMappingURL=indes.css.map */
