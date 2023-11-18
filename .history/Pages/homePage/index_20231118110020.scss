@@ -1,0 +1,32 @@
+
+.container {
+    min-height: 100vh;
+    background: linear-gradient(144deg, #190422 21.1%, #190422 102.96%);
+   padding: 17px 0 0 77px;
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    ul{
+        display: flex;
+        justify-content: space-between;
+        li{
+            a{
+                margin-right: 56px;
+                color: #fff;
+                font-family: Poppins;
+                font-size: 20px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                text-decoration: none;
+                list-style-type: none;   
+            }
+        } 
+    }
+    .sign-in{
+        
+    }
+}
+
+}
